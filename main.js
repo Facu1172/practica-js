@@ -15,6 +15,6 @@ switch(parseInt(prompt("ingrese una opcion \n 1- Volver al inicio \n 2- salir"))
     let opcion = parseInt(prompt ("antes de irte recomendarias esta funcion a tus amigos \n 1-Si \n 2-No"))
 if (opcion === 1){alert("Comparte esta aplicacion!");}
 
-if (opcion === 2){alert("Lamentamos que no te guste, dejanos un comentario para que podamos mejorar");}
+if (opcion === 2){alert("Lamentamos que no te guste, trataremos de mejorar para la proxima");}
     break;
 }
